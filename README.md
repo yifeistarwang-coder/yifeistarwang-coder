@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Yifei Wang 👋
 
-<!--
-**yifeistarwang-coder/yifeistarwang-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=yifeistarwang-coder\&style=flat-square\&color=blueviolet)
 
-Here are some ideas to get you started:
+Eng.D. student at **USTC** (University of Science and Technology of China), working at the
+intersection of systems software and AI — CUDA, FPGA, and everything in between.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+* 🖥️ **Systems** — CUDA pipelines, FPGA control systems, C/C++
+
+* 🤖 **AI infrastructure** — ML systems, efficient training tooling
+
+## Highlights
+
+* [G2ES\_GPU\_Pipeline](https://github.com/yifeistarwang-coder/G2ES_GPU_Pipeline) — CUDA-accelerated computer vision pipeline
+
+* [RoboMotion-FPGA](https://github.com/yifeistarwang-coder/RoboMotion-FPGA) — Verilog control system for mobile robots
+
+* [FPGA-Multi-Mode-Interactive-System](https://github.com/yifeistarwang-coder/FPGA-Multi-Mode-Interactive-System) — vision + display + game logic on Trion T35
+
+## Get in touch
+
+* 📫 <yifei.star.wang@gmail.com>
+
+* 🏫 <yifei.star.wang@mail.ustc.edu.cn>
