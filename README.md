@@ -1,6 +1,6 @@
 # Hi, I'm Yifei Wang 👋
 
-![visits](https://komarev.com/ghpvc/?username=yifeistarwang-coder&label=visits&style=flat-square&color=2a6f4e)
+![visits](https://yw-visits.yifei-star-wang.workers.dev/badge?label=visits&color=2a6f4e)
 [![homepage](https://img.shields.io/badge/homepage-yifeistarwang--coder.github.io-2a6f4e?style=flat-square)](https://yifeistarwang-coder.github.io)
 
 Eng.D. student at **USTC** (University of Science and Technology of China), working at the
