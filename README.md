@@ -10,7 +10,6 @@ intersection of systems software and AI — CUDA, FPGA, and everything in betwee
 
 - 🖥️ **Systems** — CUDA pipelines, FPGA control systems, C/C++
 - 🤖 **AI infrastructure** — ML systems, efficient training tooling
-- 🌐 **Web** — my personal homepage is a terminal: type `help` to explore
 
 ## Highlights
 
